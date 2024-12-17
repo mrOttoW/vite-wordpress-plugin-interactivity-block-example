@@ -28,6 +28,7 @@ This repository demonstrates how the <a href="https://github.com/mrOttoW/vite-wo
     # or
     yarn start
     ```
+6. Ensure you refresh the WordPress page you're on (once) so the page loads the injected Vite client.
 
 ### Base
 If you're not using a traditional WordPress setup or want to use a different plugin folder/name, update the `base` in `vite.config.js`.
